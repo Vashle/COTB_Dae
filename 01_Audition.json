@@ -1,8 +1,54 @@
 {
-  "title": "01_Audition - Crown of the Beast: The Chained Maiden",
-  "description": "",
+  "title": "Crown of the Beast: The Chained Maiden",
+  "description": "A huntress seeks to restore her body and memories, and will do anything to do so.",
   "artist": "Vashle",
   "author": "Vashle",
   "cover": "https://i.imgur.com/bBYGvf3.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "The Chained Maiden [Audition]",
+      "volume": "0",
+      "last_updated": "1650682256",
+      "groups": {
+        "Audition": [
+          "https://i.imgur.com/bBYGvf3.jpg",
+          "https://i.imgur.com/wfFZ4X0.jpg",
+          "https://i.imgur.com/XmNjmSV.jpg",
+          "https://i.imgur.com/zfltE4k.jpg"
+        ]
+      }
+    },
+    "2": {
+      "title": "The Threaded Maiden [Round 1]",
+      "volume": "1",
+      "last_updated": "1657767275",
+      "groups": {
+        "Round 1": [
+          "https://imgur.com/MqCn1ge",
+          "https://imgur.com/CTIy3OJ",
+          "https://imgur.com/8j5KRcM",
+          "https://imgur.com/gYQAmzD",
+          "https://imgur.com/45w7wew",
+          "https://imgur.com/0sQQCDh",
+          "https://imgur.com/i7oQSvv",
+          "https://imgur.com/5hLlHjP",
+          "https://imgur.com/GDfaI7C",
+          "https://imgur.com/Kl2vAap",
+          "https://imgur.com/kEzon05",
+          "https://imgur.com/HUUsRa2",
+          "https://imgur.com/5nQ06V3",
+          "https://imgur.com/AhVucjp",
+          "https://imgur.com/oCzaZn8",
+          "https://imgur.com/yEQVbe6",
+          "https://imgur.com/Q2ICdLz",
+          "https://imgur.com/as83Ju1",
+          "https://imgur.com/SzBd64v",
+          "https://imgur.com/Q37LCHz",
+          "https://imgur.com/m0pGAzk",
+          "https://imgur.com/lA0iWRG",
+          ""
+        ]
+      }
+    }
+  }
 }
